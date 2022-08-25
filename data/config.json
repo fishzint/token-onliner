@@ -1,0 +1,72 @@
+{
+    "guild": "923162017035083776",
+    "update_bio": false,
+    "update_status": true,
+    "voice": false,
+    "status": {
+        "normal": 65,
+        "playing": 15,
+        "spotify": 15,
+        "visual_studio": 5
+    },
+    "custom_status": {
+        "yes": 35,
+        "no": 65
+    },
+    "join_voice": {
+        "yes": 10,
+        "no": 90
+    },
+    "livestream": {
+        "yes": 10,
+        "no": 90
+    },
+    "random_bio": {
+        "yes": 60,
+        "no": 40
+    },
+    "vcs": [
+        "931087871404802098",
+        "931087848566841375"
+    ],
+    "games": {
+        "Battlerite": 10,
+        "League of Legends": 10,
+        "PLAYERUNKNOWN'S BATTLEGROUNDS": 10,
+        "Counter-Strike: Global Offensive": 10,
+        "Overwatch": 10,
+        "Minecraft": 15,
+        "World of Warcraft": 5,
+        "Grand Theft Auto V": 10,
+        "Tom Clancy's Rainbow Six Siege": 10,
+        "Rocket League": 10
+    },
+    "visual_studio": {
+        "images": {
+            "py": "565945350645481492",
+            "js": "808841241142755358"
+        },
+        "workspaces": [
+            "vscode",
+            "files",
+            "projects",
+            "bot",
+            "github",
+            "personal",
+            "Downloads",
+            "Desktop"
+        ],
+        "names": [
+            "main.py",
+            "bot.py",
+            "index.js",
+            "run.js",
+            "install.py",
+            "install.js",
+            "test.js",
+            "test.py",
+            "abc.js",
+            "abc.py"
+        ]
+    }
+}
